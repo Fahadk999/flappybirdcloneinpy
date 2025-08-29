@@ -1,5 +1,20 @@
-# flappybirdcloneinpy
-Clone of the flappy bird game in pygame
+# Flappy Circle 🟢 (Flappy Bird Clone in Python)
 
-How to run?
-Just run the main.py file if you have pygame in your pc
+A simple Flappy Bird-style game built using **Python** and **Pygame**.  
+This is one of my first complete Python games! 🚀
+
+---
+
+## 🎮 How to Play
+- Press **SPACE** to jump.  
+- Avoid hitting the pipes.  
+- Don’t fall off the screen.  
+- Pass through pipes to score points.  
+
+---
+
+## 🛠️ Requirements
+Make sure you have Python and Pygame installed.
+
+```bash
+pip install pygame
